@@ -4,4 +4,4 @@ The single sythetic bubbles ara already pre-generated from the proposed conditio
 
 The main script is Main_ImageGeneration.m  
 
-You need to downlaod the MillionBubbleDataBase at:  link TBG.
+You need to downlaod the MillionBubbleDataBase at:  link TBD.

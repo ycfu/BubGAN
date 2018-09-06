@@ -16,7 +16,7 @@ set(0,'DefaultLineLineWidth',ceil(1.5),'DefaultLineMarkerSize',ceil(8))
 set(0,'DefaulttextFontName','Arial','DefaulttextFontSize',26)
 %Set the plot parameters**********************************
 
-rng(10)  % for 
+rng(10)  % for reproducibility
 addpath ./BubFunctions
 addpath ./ColorMap
 

@@ -19,8 +19,7 @@ set(0,'DefaulttextFontName','Arial','DefaulttextFontSize',26)
 rng(10)  % for 
 addpath ./BubFunctions
 addpath ./ColorMap
-RNum=['1'];
-CNum=['1'];
+
 InputFolder=['.\MillionBubbleDataBase\'];
 
 if ~exist('BubImage','var')

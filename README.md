@@ -4,3 +4,6 @@ Bubble Generative Adversarial Networks (BubGAN) for Bubbly Flow Synthesis. This 
 The main script is Main_ImageGeneration.m  
 
 You need to downlaod the MillionBubbleDataBase at:  https://www.dropbox.com/sh/bbq7644qajwry4e/AAB1PWapFkPH3SRpVwvg4ohIa?dl=0
+
+The related paper can be found at:
+http://arxiv.org/abs/1809.02266

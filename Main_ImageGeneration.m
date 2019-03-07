@@ -69,7 +69,7 @@ for k=1:ImageGenNum
     [ImageCanvas_Painted,ImgLabel]=DrawCanvas(BubList,ParaImg,BubImage,BubInfo,SelectBubRange); %draw bubbles on canvas
     if SaveFlag
     %% Save Generated images and bubble label information
-    imwrite(ImageCanvas, sprintf('Image_%03.f.tif', k));
+    imwrite(ImageCanvas_Painted, sprintf('Image_%03.f.tif', k));
     save( sprintf('Label_%03.f.mat',k),'ImgLabel')
     end
 end

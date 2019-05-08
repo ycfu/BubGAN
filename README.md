@@ -6,4 +6,4 @@ The main script is Main_ImageGeneration.m
 You need to downlaod the MillionBubbleDataBase at:  http://dx.doi.org/10.17632/mxnzxzc6v7.1
 
 # Reference
-The related preprint article: http://arxiv.org/abs/1809.02266
+The related article can be found at https://doi.org/10.1016/j.ces.2019.04.004 or http://arxiv.org/abs/1809.02266
